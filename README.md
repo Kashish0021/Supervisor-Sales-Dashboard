@@ -6,6 +6,7 @@ This repository contains a Power BI dashboard designed to give supervisors a vis
 
 ## Made By:- 
 **Kashish Rajput**
+
 Aspiring Data Analyst | Skilled in Python, Excel, Power BI, SQL, Tableau
 
 India
